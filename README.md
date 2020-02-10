@@ -1,6 +1,6 @@
 # Project_Akhir_Android_Developer_Expert
 
-## Ini adalah Final Project Online Course Menjadi Android Developer Expert pada situs Dicoding
+## Ini adalah source code Final Project pada kelas Belajar Fundamental Aplikasi Android pada situs Dicoding
 
 Aplikasi Katalog film yang menampilkan daftar film dan juga tayangan TV. Terdapat fitur pencarian, alarm, dan menambahkan item ke daftar favorit.
 
