@@ -7,11 +7,8 @@ Aplikasi Katalog film yang menampilkan daftar film dan juga tayangan TV. Terdapa
 Screenshot:
 
 1. Daftar Film
-<img src="Screenshots/movie_list.png" width=300 align=left>
-
+<img src="Screenshots/movie_list.png" width=300>
 2. Detail Film
-<img src="Screenshots/detail_movie.png" width=300 align=right>
-
+<img src="Screenshots/detail_movie.png" width=300>
 3. Hasil Pencarian
-<img src="Screenshots/search.png" width=300 align=right>
-
+<img src="Screenshots/search.png" width=300>
