@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Film Kesukaan</string>
+    <string name="title_favorites">Kesukaan</string>
+    <string name="title_tv_show">Tayangan TV</string>
+    <string name="title_movie">Film</string>
+    <string name="image_view_poster_movie">Poster</string>
+    <string name="image_view_vote_average">Skor</string>
+    <string name="_0_0">0.0</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="release_date_value">Tanggal Rilis Value</string>
+    <string name="overview">Sekilas</string>
+    <string name="overview_value">sekilas value</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Tayangan TV</string>
+    <string name="tab_text_3">Kesukaan</string>
+    <string name="detail_movie">Rincian Film</string>
+    <string name="detail_tv">Rincian Tayangan TV</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="movie">Film</string>
+    <string name="add_to_favorite">Tambah ke daftar kesukaan</string>
+    <string name="tv_deleted">dihapus dari daftar</string>
+    <string name="delete">Hapus dari kesukaan</string>
+    <string name="add_response">ditambahkan ke daftar kesukaan</string>
+
+    <string name="backdrop">Gambar latar belakang</string>
+    <string name="rating">Rating</string>
+    <string name="image_detail">Image</string>
+    <string name="appwidget_text">Film Kesukaan</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="empty_text">KOSONG</string>
+    <string name="reminder">Pengingat</string>
+    <string name="daily_reminder">Pengingat harian</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="language">Bahasa</string>
+    <string name="change_language">Ubah Bahasa</string>
+</resources>

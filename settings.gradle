@@ -1,0 +1,2 @@
+include ':app', ':favoritemovie'
+rootProject.name='MovieCatalogue'
