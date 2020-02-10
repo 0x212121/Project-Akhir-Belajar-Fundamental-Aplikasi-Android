@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Movie Catalogue Finale</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_tv_show">TV Shows</string>
+    <string name="title_movie">Movies</string>
+    <string name="image_view_poster_movie">Poster</string>
+    <string name="image_view_vote_average">Score</string>
+    <string name="_0_0">0.0</string>
+    <string name="release_date">Release Date</string>
+    <string name="release_date_value">Release Date Value</string>
+    <string name="overview">Overview</string>
+    <string name="overview_value">overview value</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_tv">Detail TV Show</string>
+    <string name="tab_text_3">Favorite</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="favorite">Favorite</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="tv_deleted">deleted from favorite</string>
+    <string name="delete">Delete from favorite</string>
+    <string name="add_response">added to favorite</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Insert search keyword</string>
+    <string name="not_found">Not Found</string>
+    <string name="backdrop">Backdrop Image</string>
+    <string name="rating">Rating</string>
+    <string name="image_detail">Image</string>
+    <string name="appwidget_text">Favorite Movies</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">EMPTY</string>
+    <string name="reminder">Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="language">Language</string>
+    <string name="change_language">Change Language</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+
+
+    <string name="choose">You choose</string>
+    <string name="today_release">Today release</string>
+
+<!--    Notification-->
+    <string name="default_notification_channel_id" translatable="false">channel_01</string>
+    <string name="default_notification_channel_name" translatable="false">Movie Catalogue Reminder</string>
+    <string name="release_notification_channel_id" translatable="false">channel_02</string>
+    <string name="release_notification_channel_name" translatable="false">New Movie Release</string>
+    <string name="toast_reminder_enabled">%1s reminder enabled</string>
+    <string name="toast_reminder_disabled">%1s reminder disabled</string>
+    <string name="release_notif_message">What films are released today? Check it out!</string>
+    <string name="daily_notif_message">Don\'t forget to check Movie Catalogue today!</string>
+    <string name="new_movie">New movie released today</string>
+    <string name="daily_open">Open movie catalogue now</string>
+    <string name="txt_release_content">New release</string>
+</resources>

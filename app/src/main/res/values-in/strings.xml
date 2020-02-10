@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Katalog Film Final</string>
+    <string name="title_favorites">Kesukaan</string>
+    <string name="title_tv_show">Tayangan TV</string>
+    <string name="title_movie">Film</string>
+    <string name="image_view_poster_movie">Poster</string>
+    <string name="image_view_vote_average">Skor</string>
+    <string name="_0_0">0.0</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="release_date_value">Tanggal Rilis Value</string>
+    <string name="overview">Sekilas</string>
+    <string name="overview_value">sekilas value</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Tayangan TV</string>
+    <string name="tab_text_3">Kesukaan</string>
+    <string name="detail_movie">Rincian Film</string>
+    <string name="detail_tv">Rincian Tayangan TV</string>
+
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Tayangan TV</string>
+    <string name="add_to_favorite">Tambah ke daftar kesukaan</string>
+    <string name="tv_deleted">dihapus dari daftar</string>
+    <string name="delete">Hapus dari kesukaan</string>
+    <string name="add_response">ditambahkan ke daftar kesukaan</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata kunci pencarian</string>
+    <string name="not_found">Tidak ditemukan</string>
+    <string name="backdrop">Gambar latar belakang</string>
+    <string name="rating">Skor</string>
+    <string name="image_detail">Gambar</string>
+    <string name="appwidget_text">Film Kesukaan</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="empty_text">KOSONG</string>
+
+    <string name="reminder">Pengingat</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="language">Bahasa</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="settings">Pengaturan</string>
+    <string name="theme">Tema</string>
+    <string name="toast_reminder_enabled">Pengingat %1s diaktifkan</string>
+    <string name="toast_reminder_disabled">Pengingat %ls dimatikan</string>
+    <string name="release_notif_message">Film apa aja yang dirilis hari ini? Cek sekarang juga!</string>
+    <string name="daily_notif_message">Jangan lupa cek katalog film hari ini!</string>
+    <string name="new_movie">Film baru dirilis hari ini!</string>
+    <string name="choose">Kamu memilih</string>
+    <string name="today_release">Rilisan Hari ini</string>
+    <string name="daily_open">Buka katalog sekarang</string>
+    <string name="txt_release_content">Baru dirilis</string>
+</resources>
