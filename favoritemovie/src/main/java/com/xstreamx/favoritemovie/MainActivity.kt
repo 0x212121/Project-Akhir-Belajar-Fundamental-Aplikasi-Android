@@ -42,15 +42,15 @@ class MainActivity : AppCompatActivity() {
 
         rv_favorite_movie.apply {
 
-//            adapter = FavoriteMovieAdapter(favoriteMovies, context, object : FavoriteMovieAdapter.onItemClicked {
-//                override fun onItemClick(position: Int) {
+            adapter = FavoriteMovieAdapter(favoriteMovies, context, object : FavoriteMovieAdapter.onItemClicked {
+                override fun onItemClick(position: Int) {
 //                    val intent = Intent(context, DetailActivity::class.java)
-//                    intent.putExtra("extra_type", "movie_favorite")
-//                    intent.putExtra("extra_id", favoriteMovies[position].id)
-//                    intent.putExtra("fav_movie", favoriteMovies[position])
-//                    startActivity(intent)
-//                }
-//            })
+                    intent.putExtra("extra_type", "movie_favorite")
+                    intent.putExtra("extra_id", favoriteMovies[position].id)
+                    intent.putExtra("fav_movie", favoriteMovies[position])
+                    startActivity(intent)
+                }
+            })
             layoutManager = LinearLayoutManager(context)
         }
 
